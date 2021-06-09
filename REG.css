@@ -1,0 +1,25 @@
+body{
+    background-color: #0303fd;
+    text-align: center;
+}
+form{
+    text-align: center;
+    background-color: aqua;
+    font-family: "Freestyle Script";
+    font-size: larger;
+    color: saddlebrown;
+}
+h1{
+    font-size: 45px;
+    font-family: "French Script MT";
+    background-color: navy;
+    color: aquamarine;
+    border: solid aquamarine;
+    border-bottom-style: dot-dot-dash;
+    border-bottom-width: medium;
+}
+h2{
+    font-family: Algerian;
+    font-size: 35px;
+    color: azure;
+}
